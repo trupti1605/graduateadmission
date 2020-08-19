@@ -1,7 +1,8 @@
 # graduateadmission
-###Probelm Statement:-
+### Probelm Statement:-
 
-Prediction of Graduate Admissions from an Indian perspective for Masters Programs. The parameters included are :
+Prediction of Graduate Admissions from an Indian perspective for Masters Programs. 
+- The parameters included are :
 
 1)GRE Scores ( out of 340 )
 
@@ -17,7 +18,9 @@ Prediction of Graduate Admissions from an Indian perspective for Masters Program
 
 7)Chance of Admit ( ranging from 0 to 1 ) is the Target Variable
 
-Models:- 1)Logistic Regression
+- Models:-
+
+1)Logistic Regression
 
 2)Random Forest
 
